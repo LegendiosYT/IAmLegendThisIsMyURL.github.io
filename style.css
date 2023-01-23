@@ -1,0 +1,116 @@
+body {
+    background-color:#780600;
+	background-image: url("../cobra-kai/cobrakaibackgroundd.jpg");
+   font-family: "Nerko One", Cursive;
+   text-align: center;
+}
+
+h1{
+  color: red;
+  text-align: center;
+  text-decoration-line: line-through;
+  text-decoration-color: yellow;
+  height: 50px;
+  width: 37%;
+  margin: 0 auto;
+  background-color: yellow;
+}
+
+h2{
+	color: red;
+    text-align: center;
+	height: 50px;
+	width: 45%;
+	margin: 0 auto;
+	background-color: yellow;
+}
+
+h3{
+    color: red;
+	text-align: center;
+}
+
+p{
+    color: yellow;
+	text-align: center;
+	background-color: red;
+	overflow: visible;
+	border: 2px solid yellow;
+	margin: 20px;
+	padding: 20px;
+}
+
+td{
+    color: yellow;
+	text-align: center;
+}
+
+th{
+    color: yellow;
+	 text-align: center;
+}	
+
+a	{
+    color: red;
+}
+
+table {
+    margin: 0 auto;
+	text-align: center;
+	height: 10px;
+	width: 400px;
+	background-color: red;
+	border: 1px solid yellow;
+}
+.container{
+    background-color: yellow;
+    max-width: 1000px;
+    margin: auto;
+}
+	
+div.sticky {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	padding: 5px;
+	background-color: #ffff00;
+	border: 4px solid #ff0000
+}
+
+.katofoto {
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+	width: 300px;
+	z-index: -1;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #ff0000;
+}
+
+		li {
+			float: left;
+		}
+
+li a {
+	display: block;
+	color: yellow;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+label{
+	color: yellow;
+	text-align: center;
+	background-color: red;
+	overflow: visible;
+	border: 2	px solid yellow;
+	margin: 4px;
+	padding: 4px;
+}
